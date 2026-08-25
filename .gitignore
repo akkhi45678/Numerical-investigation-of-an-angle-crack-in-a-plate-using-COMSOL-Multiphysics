@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# COMSOL temporary/recovery files
+*.lock
+*.lck
+*.tmp
+~*
+
+# MATLAB/Python generated files
+__pycache__/
+*.pyc
