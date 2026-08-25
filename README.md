@@ -113,8 +113,4 @@ The COMSOL model successfully reproduces the expected mixed-mode fracture behavi
 
 The close agreement with the NAFEMS benchmark confirms that the numerical model provides a suitable reference case for studying linear elastic fracture mechanics and crack-tip parameters in COMSOL Multiphysics.
 
-## Author
 
-**Name:** ____Akhilesh yadav______________________  
-**Institution:** _IIT KANPUR___________________  
-**Department:** __Mechanical engineering___________________
